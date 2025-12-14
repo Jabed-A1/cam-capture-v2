@@ -31,8 +31,8 @@ git clone https://github.com/Jabed-A1/cam-capture-v2.git
 cd cam-capture-v2
 
 ```
-##Setup Guide for All OS
-1. Termux (Android)
+# Setup Guide for All OS
+## 1. Termux (Android)
 
 Update packages:
 ```
@@ -121,5 +121,6 @@ Local server starts at http://127.0.0.1:5000
 Cloudflare Tunnel auto-starts
 
 Public URL printed in console and browser opens automatically
+
 
 
