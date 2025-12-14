@@ -65,7 +65,7 @@ Cloudflare Tunnel starts automatically.
 
 Public URL is printed in the console.
 
-2. Kali Linux / Debian / Ubuntu
+## 2. Kali Linux / Debian / Ubuntu
 
 Update system:
 ```
@@ -98,7 +98,7 @@ Cloudflare Tunnel auto-starts and prints public URL.
 
 Browser opens automatically.
 
-3. Windows 10 / 11
+## 3. Windows 10 / 11
 
 Install Python: https://www.python.org/downloads/windows/
 
@@ -121,4 +121,5 @@ Local server starts at http://127.0.0.1:5000
 Cloudflare Tunnel auto-starts
 
 Public URL printed in console and browser opens automatically
+
 
